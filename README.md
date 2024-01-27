@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jp8k
-- 👀 I’m interested in indie games
-- 🌱 I’m currently learning godot engine
+- 󰊤 Hi, I’m @jp8k
+- 󰮯 I’m interested in indie games
+-  I’m currently learning godot engine
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
